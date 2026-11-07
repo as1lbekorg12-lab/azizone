@@ -15,7 +15,7 @@ Muhit o'zgaruvchilari (Render → Environment yoki lokal .env fayl):
     BOT_TOKEN            @BotFather tokeni                      (MAJBURIY)
     OWNER_ID             8318241400                              (MAJBURIY)
     DATABASE_URL         Render PostgreSQL "Internal Database URL" (bo'sh bo'lsa SQLite)
-    DEFAULT_SUB_CHANNEL  @anizone  (birinchi majburiy kanal; bot u yerda ADMIN bo'lishi shart)
+    DEFAULT_SUB_CHANNEL  @kagedub1  (birinchi majburiy kanal; bot u yerda ADMIN bo'lishi shart)
     ADMIN_IDS            ixtiyoriy, vergul bilan
     BOT_NAME / BOT_USERNAME / TIMEZONE   ixtiyoriy (AniZone / AniZone_bot / Asia/Tashkent)
     BASE_URL             bo'sh qoldiring: Render RENDER_EXTERNAL_URL ni o'zi beradi -> webhook rejimi
